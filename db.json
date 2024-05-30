@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "jeruk",
+            "price": "2000",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Susu",
+            "price": "5000",
+            "image": "https://cdn.pixabay.com/photo/2018/03/16/16/42/milk-3231772_960_720.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Es Krim",
+            "price": "4000",
+            "image": "https://cdn.pixabay.com/photo/2016/12/26/16/09/bowl-1932375_960_720.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Salmon",
+            "price": "20000",
+            "image": "https://cdn.pixabay.com/photo/2021/01/05/23/18/salmon-5892659_960_720.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Semangka",
+            "price": "5000",
+            "image": "https://cdn.pixabay.com/photo/2015/09/27/18/18/watermelons-961128_960_720.jpg"
+        },
+        {
+            "id": 6,
+            "name": "kentang",
+            "price": "20000",
+            "image": "https://cdn.pixabay.com/photo/2016/08/11/08/43/potatoes-1585060_960_720.jpg"
+        }
+    ]
+}
